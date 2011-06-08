@@ -1,0 +1,6 @@
+[submodule "lib/underscore"]
+	path = lib/underscore
+	url = git://github.com/emrgnt/underscore.lua.git
+[submodule "lib/util"]
+	path = lib/util
+	url = git://github.com/emrgnt/util.lua.git
