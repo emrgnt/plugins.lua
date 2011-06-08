@@ -1,5 +1,7 @@
 = OOP in Corona SDK =
 
+**Deprecated in favour of [MiddleClass](https://github.com/kikito/middleclass) library.**
+
 I'll put more notes here but for now, read this doc, or browse the code & comments in *main.lua* and *lib/something.lua*
 
 Also, I highly recommend this Corona orientated tutorial on OOP in LUA:
